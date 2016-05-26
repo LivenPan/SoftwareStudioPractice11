@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     private Button send;
     private EditText edt;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
